@@ -1,0 +1,8 @@
+flask-Session
+redis
+jinja2
+webtest
+flask
+requests
+redis
+gunicorn==19.7.1
